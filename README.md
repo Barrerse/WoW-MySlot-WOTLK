@@ -125,3 +125,7 @@ aAovc3RvcG1hY3JvIFtub2hlbHBdCi90YXJnZXRsYXN0dGFyZ2V0ChiKASIG
 MTM2MTQ5cB56BVNlYmFy
 @ --------------------
 @ END OF MYSLOT
+
+![image](https://user-images.githubusercontent.com/108836644/217032109-905e8fd6-0daa-4171-a538-4fc0aca398f9.png)
+![image](https://user-images.githubusercontent.com/108836644/217032106-6c9ce268-20f3-4ece-abfb-043e56cf79bb.png)
+
